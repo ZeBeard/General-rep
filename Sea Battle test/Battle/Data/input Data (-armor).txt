@@ -1,0 +1,14 @@
+[Kriegsmarine:
+[Enterprise has armor amount: 14 and hit power: 28]
+[Missouri has armor amount: 26 and hit power: 16]
+[Britannic has armor amount: 19 and hit power: 22]
+[Argonaut has armor amount: 43 and hit power: 19]
+[Eastland has armor amount: 32 and hit power: 15]
+]
+[Royal Navy:
+[Mauretania has armor amount: 22 and hit power: 13]
+[Beagle has armor amount: 26 and hit power: 18]
+[Turtle has armor amount: 9 and hit power: 2]
+[Victoria III has armor amount: -1 and hit power: 11]
+[Ra has armor amount: 20 and hit power: 15]
+]

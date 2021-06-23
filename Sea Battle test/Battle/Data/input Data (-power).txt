@@ -1,0 +1,18 @@
+[Kriegsmarine:
+[Lenin has armor amount: 37 and hit power: 1]
+[Dreadnought has armor amount: 14 and hit power: 30]
+[Britannic has armor amount: 16 and hit power: 6]
+[Charlotte Dundas has armor amount: 1 and hit power: 9]
+[Flying Dutchman has armor amount: 9 and hit power: 4]
+[Graf Spee has armor amount: 9 and hit power: -6]
+[Enterprise has armor amount: 22 and hit power: 23]
+[Eastland has armor amount: 22 and hit power: -7]
+]
+[Royal Navy:
+[Queen Elizabeth has armor amount: 3 and hit power: 18]
+[Titanic has armor amount: 30 and hit power: -4]
+[Cutty Sark has armor amount: 2 and hit power: -5]
+[Hunley has armor amount: 34 and hit power: 8]
+[Nautilus has armor amount: 20 and hit power: 27]
+[Glomar Challenger has armor amount: 22 and hit power: 23]
+]

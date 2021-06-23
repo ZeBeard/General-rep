@@ -1,0 +1,15 @@
+[Kriegsmarine:
+[Britannic has armor amount: 11 and hit power: 30]
+[Lusitania has armor amount: 49 and hit power: 14]
+[Hunley has armor amount: 45 and hit power: 19]
+]
+[Royal Navy:
+[Santa Maria has armor amount: 50 and hit power: 20]
+[Queen Elizabeth has armor amount: 20 and hit power: 9]
+[Dreadnought has armor amount: 38 and hit power: 30]
+[Triton has armor amount: 16 and hit power: 13]
+[Mauretania has armor amount: 37 and hit power: 6]
+[Beagle has armor amount: 50 and hit power: 6]
+[Flying Dutchman has armor amount: 28 and hit power: 8]
+[Kon-Tiki has armor amount: 40 and hit power: 27]
+]
